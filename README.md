@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello!
+I'm **Sviatoslav Ermolaev (slermo)**, a mobile developer from St. Petersburg
 
-<!--
-**slermo/slermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☀️ **Flutter developer** by day, **Data Scientist** by night 🌑
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| SKILL  |  EXP | Desc |
+|---|---|---|
+| Flutter **Middle+**  |  ▁▂▃▄▅▆▇ |  3 years of exp at product development as a mobile dev |
+| Data Science **Junior** | ▁▂▃▄▅  |  1.5 years of experience during my Master's degree |
+
+# Links
+@slermo - tg
+
+| Link  | Desc  |
+|---|---|
+| [kaggle](https://www.kaggle.com/slermo)  | 🔬 Data Science stuff  |
+| [leetcode](https://leetcode.com/u/slermo/)  | 🐞 Problem-solving practice  |
+| [lichess](https://lichess.org/@/slermo)  | ♟️ Pure chess skill   |
+| [medium](https://medium.com/@ledumblasphemus)  | 📝 Medium articles written by me  |
+
+
