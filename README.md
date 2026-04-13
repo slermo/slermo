@@ -1,5 +1,5 @@
 # Hello!
-I'm **Sviatoslav Ermolaev (slermo)**, a mobile developer from St. Petersburg
+I'm **Sviatoslav Ermolaev (slermo)**, an ML-engineeer from St. Petersburg
 
 ☀️ **Flutter developer** by day, **Data Scientist** by night 🌑
 
@@ -7,9 +7,10 @@ I'm **Sviatoslav Ermolaev (slermo)**, a mobile developer from St. Petersburg
 
 | SKILL  |  EXP | Desc |
 |---|---|---|
-| Flutter **Middle+**  |  ▁▂▃▄▅▆▇ |  3.5 years of exp at product development as a mobile dev |
-| Data Science **Junior** | ▁▂▃▄▅  |  1.5 years of experience during my Master's degree |
-| ML engineer **Junior+** | ▁▂▃▄▅  |  1 year of experience in NLP |
+| ML engineer **Middle** | ▁▂▃▄▅▆▇  |  3.5 years of experience in NLP+classic ML |
+| DS **Junior+** | ▁▂▃▄▅  |  3.5 years of experience during my Master's degree |
+| Flutter **Middle**  |  ▁▂▃▄▅▆▇ |  2.5 years of exp at product development as a mobile dev |
+
 
 # Links
 @slermo - tg
