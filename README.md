@@ -7,8 +7,8 @@ I'm **Sviatoslav Ermolaev (slermo)**, an ML-engineeer from St. Petersburg
 
 | SKILL  |  EXP | Desc |
 |---|---|---|
-| ML engineer **Middle** | ▁▂▃▄▅▆▇  |  3.5 years of experience in NLP+classic ML |
-| DS **Junior+** | ▁▂▃▄▅▆  |  3.5 years of experience during my Master's degree |
+| ML engineer **Middle+** | ▁▂▃▄▅▆▇  |  3.5 years of experience in NLP+classic ML |
+| DS **Middle** | ▁▂▃▄▅▆  |  3.5 years of experience during my Master's degree |
 | Flutter **Middle**  |  ▁▂▃▄▅ |  2.5 years of exp at product development as a mobile dev |
 
 
